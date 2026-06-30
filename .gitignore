@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.zip
+webp변환기_1.2.exe
+update.txt
